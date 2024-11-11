@@ -16,5 +16,5 @@
 2. Upload the code to your Arduino Xiao
 
 ## Usage
-Connect buttons to specified pins and press to trigger keyboard shortcuts.
-For example, a dedicated mute key for Teams.
+- Connect buttons to specified pins and press to trigger keyboard shortcuts.
+- For example, a dedicated mute key for Teams.
